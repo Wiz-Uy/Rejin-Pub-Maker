@@ -1,0 +1,14 @@
+@font-face {
+    font-family: 'Fruity Juice';
+    font-style: normal;
+    font-weight: 400;
+    src: local('Fruity Juice'), url('https://fonts.cdnfonts.com/s/97077/FruityJuice-0WRlX.woff') format('woff');
+}
+@font-face {
+    font-family: 'Fruity Juice';
+    font-style: italic;
+    font-weight: 400;
+    src: local('Fruity Juice'), url('https://fonts.cdnfonts.com/s/97077/FruityJuiceItalic-WyMVv.woff') format('woff');
+}
+
+
